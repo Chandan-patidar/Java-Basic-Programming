@@ -1,0 +1,17 @@
+# Creating object in java
+
+:-The object is a basic building block of an OOPs language. In Java, we cannot execute any program without creating an object. There is various way to create an object in Java that we will discuss in this section, and also learn how to create an object in Java.
+
+# java provides five ways to create an object
+
+1-> using "new" keyword
+
+The Syntax for creating an object is :
+:- CreatingName object = new ClassName();
+
+2-> using "clone()" method
+
+
+3-> using "newInstance()" method of the "Class" class
+4-> using "newInstance()" method of the "Constructor" class
+5-> using Deserialization

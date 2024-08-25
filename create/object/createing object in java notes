@@ -11,6 +11,18 @@ The Syntax for creating an object is :
 
 2-> using "clone()" method
 
+Syntax:-
+
+protected Object clone() throw CloneNotSupportExc
+
+we use the following statement to create a new object.
+
+CLassName newobject =(ClassName) old object.clone();
+
+
+
+
+
 
 3-> using "newInstance()" method of the "Class" class
 4-> using "newInstance()" method of the "Constructor" class
